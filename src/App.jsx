@@ -6,7 +6,9 @@ const App = () => {
     <div>
       <Navbar />
       <Hero/>
-
+      <About/>
+      <Services/>
+      <MyWork/>
     </div>
   )
 }
